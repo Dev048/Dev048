@@ -1,40 +1,105 @@
-# Hi, I'm Dev 👋
+# Dev
 
-AI engineer focused on **LLM systems, RAG architectures, and agent orchestration**.
+AI Engineer focused on building structured LLM systems, multi-agent workflows, retrieval pipelines, and AI infrastructure.
 
-## Current Projects
+I work on engineering-oriented AI systems with emphasis on:
 
-🔹 **Iterative Deep Research Engine**
-AI research assistant with web search ingestion, hybrid retrieval, reranking and RAG.
+* deterministic orchestration
+* tool-augmented agents
+* retrieval and reasoning pipelines
+* evaluation and observability
+* structured state and reliability
 
-## Areas I Work On
+---
 
-* Retrieval Augmented Generation (RAG)
-* LLM Agents and orchestration
+# Core Areas
+
+### LLM Systems
+
+* Retrieval-Augmented Generation (RAG)
+* Multi-agent orchestration
+* Autonomous research agents
+* Tool-using AI systems
+* Structured generation pipelines
+
+### AI Infrastructure
+
+* Model Context Protocol (MCP)
 * Vector databases (Qdrant)
-* AI research systems
 * FastAPI AI backends
+* Execution tracing and observability
+* Environment and configuration management
 
-## Tech Stack
+### Data & Training Pipelines
 
-Python • FastAPI • LangGraph • Qdrant • LLM APIs
+* Synthetic dataset generation
+* Instruction tuning pipelines
+* LLM-as-a-judge evaluation
+* Preference data generation
+* Fine-tuning workflows
 
-## Currently Learning
+---
 
-* LLM evaluation frameworks
-* Model fine-tuning
+# Featured Projects
 
-<!--
-**Dev048/Dev048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Iterative Deep Research Engine
 
-Here are some ideas to get you started:
+RAG-based research system with web search ingestion, hybrid retrieval, reranking, and grounded answer generation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Autonomous AI Research Lab
+
+Closed-loop multi-agent research system that generates hypotheses, executes experiments, evaluates outcomes, and iteratively improves research workflows using LangGraph.
+
+### AI Project Manager
+
+Multi-agent orchestration system with planning, execution, reflection, replanning, and tool-augmented task workflows.
+
+### Policy Impact Simulator
+
+Parallel multi-agent system that evaluates economic, environmental, social, and risk impacts of policy proposals.
+
+### Filesystem MCP Server
+
+Secure filesystem server implementing the Model Context Protocol (MCP) with sandboxed tools and resources for AI systems.
+
+### AI Instruction Dataset Generator
+
+Synthetic dataset generation pipeline for instruction tuning with validation, deduplication, topic expansion, and LLM-based quality evaluation.
+
+---
+
+# Tech Stack
+
+### Languages & Frameworks
+
+Python • FastAPI • LangGraph • Pydantic
+
+### AI / ML
+
+RAG • LLM APIs • Sentence Transformers • Multi-Agent Systems
+
+### Infrastructure
+
+Qdrant • MCP • REST APIs • Structured State Graphs
+
+---
+
+# Current Focus
+
+* evaluation frameworks for AI systems
+* observability and tracing
+* memory architectures for agents
+* advanced tool-using systems
+* scalable orchestration patterns
+
+---
+
+# Philosophy
+
+I prefer building systems where:
+
+* graphs control execution
+* tools ground reasoning
+* state is explicit and structured
+* reliability matters more than autonomy
+* AI systems are observable and reproducible
